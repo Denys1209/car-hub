@@ -59,4 +59,4 @@ jobs:
           app-name: 'CarHub23'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B99258E70B14BF59A666A86C5E69514 }}
+          publish-profile: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_MANGO_MEADOW_052D0D803 }}
